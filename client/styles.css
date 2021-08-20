@@ -1,0 +1,27 @@
+h1 { 
+    color:#5272ff;
+}
+
+h3 { 
+    color: #fcce02
+}
+
+/* body { 
+    background-color: yellow;
+} */
+
+img { 
+    margin-left: 900px;
+    height: 300px;
+    margin-top: -500px;
+    margin-bottom: -50px;
+    
+}
+
+body { 
+    background-repeat: no-repeat ;
+    background-size:cover;
+    opacity: 4.5;
+}
+
+
